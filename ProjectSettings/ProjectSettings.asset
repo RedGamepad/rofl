@@ -4,14 +4,14 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: faad210b43cfd484eb8c4f69b6838399
+  productGUID: 7949dc3c15339504190a3b9254fd3e3a
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: ROFL
+  productName: ROFLYAN
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -508,14 +508,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: ROFL
+  metroPackageName: ROFLYAN
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: ROFL
+  metroApplicationDescription: ROFLYAN
   wsaImages: {}
   metroTileShortName: 
   metroCommandLineArgsFile: 
@@ -587,11 +587,12 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Build: 1
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: bc4ea457-56a8-4e97-9a8d-d957b14c84b8
-  projectName: ROFL
+  cloudProjectId: 7fcbb957-ee86-4025-bd22-f158cbd81f88
+  projectName: ROFLYAN
   organizationId: medol
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
